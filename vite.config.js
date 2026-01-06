@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/restaurant-booking/", // GANTI dengan nama repo
+  base: "/restaurant-booking-react/", // GANTI dengan nama repo
 });
